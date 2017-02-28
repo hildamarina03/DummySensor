@@ -4,8 +4,8 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "org.mdsd2017.android.dummysensor"
-        minSdkVersion 14
+        applicationId "bts.mdsd.android.dummysensor"
+        minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"

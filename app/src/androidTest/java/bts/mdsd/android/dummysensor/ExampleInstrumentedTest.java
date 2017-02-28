@@ -1,4 +1,4 @@
-package org.mdsd2017.android.dummysensor;
+package bts.mdsd.android.dummysensor;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.mdsd2017.android.dummysensor", appContext.getPackageName());
+        assertEquals("bts.mdsd.android.dummysensor", appContext.getPackageName());
     }
 }

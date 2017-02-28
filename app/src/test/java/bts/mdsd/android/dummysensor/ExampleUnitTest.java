@@ -1,4 +1,4 @@
-package org.mdsd2017.android.dummysensor;
+package bts.mdsd.android.dummysensor;
 
 import org.junit.Test;
 
